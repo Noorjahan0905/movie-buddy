@@ -2,16 +2,6 @@
 
 **Movie Buddy** is an AI-powered movie recommendation app built using Streamlit and machine learning techniques. Just enter a movie title, and Movie Buddy finds similar films you'll love.
 
-movie-buddy/
-├── app.py
-├── recommender.py   # assumed dependency, create or add yours
-├── .gitignore
-├── README.md
-├── LICENSE
-└── .github/
-    └── workflows/
-        └── deploy.yml
-
 ## 🚀 Features
 
 - 🔍 Intelligent search based on TF-IDF and cosine similarity
